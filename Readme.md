@@ -9,7 +9,7 @@ This tool will give you blind & strong code , but everyone have knowledge in bas
 # Screen Shots
 <img src="bin/img/script.png">
 <img src="bin/img/code.png">
-# License
+<h1> License </h1>
 <img src="bin/img/wtfpl.png">
 
     DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
