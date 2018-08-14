@@ -6,6 +6,8 @@ This tool will give you blind & strong code , but everyone have knowledge in bas
 # For What ?
 <b>The goal of this project is to make code hard to read by people with limited knowledge in Bash
 <br>For everyone love Coding & BASH
+# Operating system
+<b> [+] Linux
 # Screen Shots
 <img src="bin/img/script.png">
 <img src="bin/img/code.png">
