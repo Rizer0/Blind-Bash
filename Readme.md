@@ -7,8 +7,8 @@ You can use this project to obfuscate your bash code<br>
 The obfuscation is the best way to hide important things in your code<br>
 <br>So this obfuscation not 100% secure , don't let important things in your bash code just use this obfuscation for joking.</b>
 # For What?
-<b>The goal of this project is to make code hard to read by people with limited knowledge in Bash
-<br>For everyone love Coding & BASH
+<b>1.The goal of this project is to make code hard to read by people with limited knowledge in Bash
+<br>2.For everyone who love Coding & BASH
 # Operating system
 <b> [+] Linux
 # Screen Shots
